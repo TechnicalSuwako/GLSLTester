@@ -1,9 +1,9 @@
 # 076 Free License
 
-Copyright (c) 2026 テクニカル諏訪子
+Copyright (c) テクニカル諏訪子
 
 Permission is hereby granted to any person obtaining a copy of the software
-SuwaUI (the "Software") to use, modify, merge, copy, publish, distribute,
+GLSLテスター (the "Software") to use, modify, merge, copy, publish, distribute,
 sublicense, and/or sell copies of the Software, subject to the following conditions:
 
     1. **Origin Attribution**:

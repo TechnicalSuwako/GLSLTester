@@ -1,0 +1,5 @@
+*.vcxproj.filters
+glsltester
+*.dylib
+*.lib
+*.dll

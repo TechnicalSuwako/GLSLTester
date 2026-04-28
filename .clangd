@@ -1,0 +1,13 @@
+CompileFlags:
+  Add:
+    - -I./include
+    - -I/usr/include
+    - -I/usr/local/include
+    - -I/usr/X11R6/include
+    - -I/usr/X11R7/include
+    - -L/usr/lib
+    - -L/usr/local/lib
+    - -L/usr/X11R6/lib
+    - -L/usr/X11R7/lib
+    - -std=c++11
+    - -Wno-pragma-once-outside-header
